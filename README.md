@@ -1,6 +1,6 @@
 # Mememaker 
 
-This project was developed using [Mateus Silva's video](https://github.com). 
+This project was developed using [Mateus Silva's video](https://github.com/maateusilva). 
 
 ##
 
